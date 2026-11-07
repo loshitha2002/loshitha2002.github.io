@@ -27,11 +27,11 @@ filters.forEach(button => button.addEventListener('click', () => {
 }));
 
 const evidence = [
-  {id:'codearena', title:'CodeArena 1.0 — 2025', src:'assets/evidence/codearena-2025-finalists.webp', description:'Selection list showing team BinaryBrains_UOP, University of Peradeniya, among teams selected for the physical round.'},
-  {id:'vcoders', title:'VCoders 4.0 — 2025', src:'assets/evidence/vcoders-2025-certificate.webp', description:'Certificate from UOJ Coders V4.0 Finale, University of Jaffna, 23–24 August 2025.'},
-  {id:'morax', title:'MoraXtreme 10.0 — 2025', src:'assets/evidence/morax-2025-certificate.webp', description:'Certificate of participation in MoraXtreme 10.0, 6 October 2025.'},
-  {id:'ieee19', title:'IEEEXtreme 19.0 — 2025', src:'assets/evidence/ieeextreme-19-certificate.webp', description:'IEEE certificate of participation in IEEEXtreme 19.0, 25 October 2025.'},
-  {id:'ieee18', title:'IEEEXtreme 18.0 — 2024', src:'assets/evidence/ieeextreme-18-certificate.webp', description:'IEEE certificate of participation in IEEEXtreme 18.0, 26 October 2024.'},
+  {id:'codearena', title:'CodeArena 1.0 — 2025', src:'loshitha-portfolio/assets/evidence/codearena-2025-finalists.webp', description:'Selection list showing team BinaryBrains_UOP, University of Peradeniya, among teams selected for the physical round.'},
+  {id:'vcoders', title:'VCoders 4.0 — 2025', src:'loshitha-portfolio/assets/evidence/vcoders-2025-certificate.webp', description:'Certificate from UOJ Coders V4.0 Finale, University of Jaffna, 23–24 August 2025.'},
+  {id:'morax', title:'MoraXtreme 10.0 — 2025', src:'loshitha-portfolio/assets/evidence/morax-2025-certificate.webp', description:'Certificate of participation in MoraXtreme 10.0, 6 October 2025.'},
+  {id:'ieee19', title:'IEEEXtreme 19.0 — 2025', src:'loshitha-portfolio/assets/evidence/ieeextreme-19-certificate.webp', description:'IEEE certificate of participation in IEEEXtreme 19.0, 25 October 2025.'},
+  {id:'ieee18', title:'IEEEXtreme 18.0 — 2024', src:'loshitha-portfolio/assets/evidence/ieeextreme-18-certificate.webp', description:'IEEE certificate of participation in IEEEXtreme 18.0, 26 October 2024.'},
 ];
 const modal = document.getElementById('evidence-dialog');
 const modalImage = document.getElementById('dialog-image');
